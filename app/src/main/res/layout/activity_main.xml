@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/runImageButton"
+            android:src="@mipmap/ic_run"
+            android:onClick="runImageButtonClick" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/trushImageButton"
+            android:src="@mipmap/ic_trush"
+            android:focusableInTouchMode="false"
+            android:onClick="trushImageButtonClick" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/shareImageButton"
+            android:src="@mipmap/ic_share"
+            android:onClick="shareImageButtonClick" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/man_name"
+            android:id="@+id/manRadioButton"
+            android:checked="true"
+            android:layout_weight="0.31"
+            android:onClick="manRadioButtonClick" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/woman_name"
+            android:id="@+id/womanRadioButton"
+            android:onClick="womanRadioButtonClick" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/textView"
+        android:textIsSelectable="true"
+        android:gravity="center_vertical|center_horizontal" />
+
+</LinearLayout>

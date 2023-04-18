@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Генератор статусов</string>
+    <string name="man_name">Про мужчин</string>
+    <string name="woman_name">Про женщин</string>
+    <string name="share_label">Отправить в ...</string>
+</resources>

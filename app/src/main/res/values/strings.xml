@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">Fun status generator</string>
+    <string name="man_name">For man</string>
+    <string name="woman_name">For woman</string>
+    <string-array name="man_part1">
+        <item>Одинокий волк</item>
+        <item>Рыцарь в душе</item>
+        <item>Даже супергерой</item>
+        <item>Реальный пацан</item>
+        <item>Умный мужчина</item>
+        <item>Любящий мужчина</item>
+        <item>Чак Норрис</item>
+        <item>Принц на белом коне</item>
+        <item>Твой будущий муж</item>
+        <item>Русский мужик</item>
+        <item>Джентельмен</item>
+        <item>Городской охотник</item>
+        <item>Сильный мужчина</item>
+        <item>Медведь Гризли</item>
+        <item>Настоящий экстримал</item>
+        <item>Сильный пол</item>
+        <item>Современный мужчина</item>а
+        <item>Только идиот</item>
+        <item>Умный парень</item>
+        <item>Только один из ста</item>
+        <item>Мой батя</item>
+        <item>Иосиф Сталин</item>
+        <item>Темный властелин</item>
+        <item>Зайка-попрыгайка</item>
+    </string-array>
+    <string-array name="man_part2">
+        <item>всегда мечтает</item>
+        <item>никогда не будет</item>
+        <item>просто обязан</item>
+        <item>иногда хочет</item>
+        <item>всегда готов</item>
+        <item>никогда не посмеет</item>
+        <item>однажды решится</item>
+        <item>должен</item>
+        <item>собирается</item>
+        <item>умеет</item>
+        <item>создан</item>
+        <item>не любит</item>
+        <item>заставит женщину</item>
+        <item>не собирается</item>
+        <item>мечтает</item>
+        <item>обязан</item>
+        <item>заставит собаку</item>
+        <item>когда надо, умеет</item>
+        <item>научил свою маму</item>
+        <item>не умеет</item>
+        <item>всегда готов</item>
+        <item>научит</item>
+        <item>разучился</item>
+        <item>на свой ДР будет</item>
+    </string-array>
+    <string-array name="man_part3">
+        <item>совершать подвиги</item>
+        <item>обеспечивать семью</item>
+        <item>почитать книжку</item>
+        <item>найти второй носок</item>
+        <item>в душ</item>
+        <item>отлить</item>
+        <item>нагрубить</item>
+        <item>уйти в закат</item>
+        <item>разрушить что-нибудь</item>
+        <item>играть в комп</item>
+        <item>свалить на рыбалку</item>
+        <item>ждать</item>
+        <item>радоваться</item>
+        <item>делать комплименты</item>
+        <item>носить бороду</item>
+        <item>забить гвоздь</item>
+        <item>чинить раковину</item>
+        <item>носить вас на руках</item>
+        <item>помалкивать</item>
+        <item>спать</item>
+        <item>фоткаться на палку</item>
+        <item>готовить шашлык</item>
+        <item>храпеть</item>
+        <item>гулять с собакой</item>
+    </string-array>
+    <string-array name="woman_part1">
+        <item>Современная девушка</item>
+        <item>Сильная женщина</item>
+        <item>Героиня твоего романа</item>
+        <item>Такая как я</item>
+        <item>Роковая красотка</item>
+        <item>Любящая девушка</item>
+        <item>Настоящая принцесса</item>
+        <item>Приличная девушка</item>
+        <item>Одинокая волчица</item>
+        <item>Настоящая оторва</item>
+        <item>Скромняшка</item>
+        <item>Та, которую ты не замечал</item>
+        <item>Истинная леди</item>
+        <item>Твоя любовь</item>
+        <item>Отверженная женщина</item>
+        <item>Позитивная девченка</item>
+        <item>Романтичная натура</item>
+        <item>Свободная девушка</item>
+        <item>Хозяйка своей судьбы</item>
+        <item>Синий чулок</item>
+        <item>Истинная кокетка</item>
+        <item>Королева королев</item>
+        <item>Чистая душа</item>
+        <item>Ваша тусовщица</item>
+    </string-array>
+    <string-array name="woman_part2">
+        <item>всегда мечтает</item>
+        <item>никогда не будет</item>
+        <item>просто обязана</item>
+        <item>иногда хочет</item>
+        <item>всегда готова</item>
+        <item>никогда не посмеет</item>
+        <item>однажды решится</item>
+        <item>должна</item>
+        <item>собирается</item>
+        <item>умеет</item>
+        <item>создана</item>
+        <item>страстно хочет</item>
+        <item>любит</item>
+        <item>старается</item>
+        <item>не хочет</item>
+        <item>хотела бы уметь</item>
+        <item>не должна</item>
+        <item>старается</item>
+        <item>хотела бы не</item>
+        <item>не умеет</item>
+        <item>обожает</item>
+        <item>старается не</item>
+        <item>разучилась</item>
+        <item>не может</item>
+    </string-array>
+    <string-array name="woman_part3">
+        <item>ходить по магазинам</item>
+        <item>плакать</item>
+        <item>выпить зеленки</item>
+        <item>устроить истерику</item>
+        <item>готовить еду</item>
+        <item>хорошо выглядеть</item>
+        <item>узнать, чего хочет</item>
+        <item>вкалывать</item>
+        <item>разрушить что-нибудь</item>
+        <item>съесть торт</item>
+        <item>заваривать чай</item>
+        <item>ждать</item>
+        <item>радоваться</item>
+        <item>истерить</item>
+        <item>плохо выглядеть</item>
+        <item>ржать</item>
+        <item>перекусывать ночью</item>
+        <item>петь</item>
+        <item>ездить верхом</item>
+        <item>делать ремонт</item>
+        <item>путешествовать</item>
+        <item>обижаться</item>
+        <item>критиковать</item>
+        <item>думать</item>
+    </string-array>
+    <string name="share_label">Share via ...</string>
+</resources>
