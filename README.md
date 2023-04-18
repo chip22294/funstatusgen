@@ -1,1 +1,2 @@
 # funstatusgen
+Fun status generator
